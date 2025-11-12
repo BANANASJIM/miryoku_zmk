@@ -11,4 +11,4 @@ jobs:
       board: '["nice_nano_v2"]'
       shield: '["charybdis_left", "charybdis_right"]'
       custom_config: '["#define MIRYOKU_ALPHAS_QWERTY\n#define MIRYOKU_CLIPBOARD_WIN\n#define MIRYOKU_NAV_VI"]'
-      kconfig: '["CONFIG_ZMK_SLEEP=y\nCONFIG_ZMK_IDLE_SLEEP_TIMEOUT=1800000\nCONFIG_ZMK_BLE_EXPERIMENTAL_CONN=y"]'
+      kconfig: '["CONFIG_ZMK_SLEEP=y\nCONFIG_ZMK_IDLE_SLEEP_TIMEOUT=1800000\nCONFIG_BT_CTLR_TX_PWR_PLUS_8=y\nCONFIG_ZMK_RGB_UNDERGLOW=y\nCONFIG_WS2812_STRIP=y\nCONFIG_ZMK_RGB_UNDERGLOW_ON_START=n"]'
