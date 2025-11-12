@@ -5,4 +5,3 @@ outboard_repository=Vzhao-L/zmk-for-charybdis
 outboard_ref=Cygnus
 outboard_from=config/boards/shields/charybdis
 outboard_to=boards/shields/charybdis
-outboard_branches=DoctorWangWang/zmk/feature-test
