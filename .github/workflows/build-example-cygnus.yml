@@ -12,4 +12,3 @@ jobs:
       shield: '["charybdis_left", "charybdis_right"]'
       custom_config: '["#define MIRYOKU_ALPHAS_QWERTY\n#define MIRYOKU_CLIPBOARD_WIN"]'
       kconfig: '["CONFIG_ZMK_SLEEP=y\nCONFIG_ZMK_IDLE_SLEEP_TIMEOUT=1800000\nCONFIG_ZMK_BLE_EXPERIMENTAL_CONN=y"]'
-      modules: '["Vzhao-L/zmk-for-charybdis/Cygnus"]'
