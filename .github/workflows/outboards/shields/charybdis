@@ -1,8 +1,7 @@
 # Copyright 2022 Manna Harbour
 # https://github.com/manna-harbour/miryoku
 
-outboard_repository=Vzhao-L/zmk-for-charybdis
+outboard_repository=BANANASJIM/zmk-for-charybdis
 outboard_ref=Cygnus
 outboard_from=config/boards/shields/charybdis
 outboard_to=boards/shields/charybdis
-outboard_branches=DoctorWangWang/zmk/feature-test
