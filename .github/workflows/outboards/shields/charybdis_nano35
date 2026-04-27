@@ -1,0 +1,9 @@
+# Copyright 2022 Manna Harbour
+# https://github.com/manna-harbour/miryoku
+
+outboard_repository=BANANASJIM/zmk-for-charybdis
+outboard_ref=Cygnus-Nano35
+outboard_from=config/boards/shields/charybdis_nano35
+outboard_to=boards/shields/charybdis_nano35
+outboard_branches=zmkfirmware/zmk/v0.3
+outboard_modules=DoctorWangWang/zmk-pmw3610-driver/main
